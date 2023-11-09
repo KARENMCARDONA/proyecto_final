@@ -1,0 +1,50 @@
+
+#titulogal{
+    font-size: 45px;
+    color: white;
+}
+#infogal{
+    font-size: 22px;
+    width: 70%;
+    color: white;
+   
+}
+#contenedorgal{
+    height: 70vh;
+    display: flex;
+    justify-content: center;
+    padding-left: 30px;
+    align-items: center;
+    padding-bottom: 60px;
+}
+#imggaleria{
+    margin-top: 40px;
+    background-image:url("../img/imggaleria.png"); 
+    height: 360px;
+    width: 100%;
+    background-repeat: no-repeat;
+}
+#librospdf h2{
+   
+    font-size: 35px;
+}
+#librospdf{
+    padding-left: 30px;
+    margin-top: 100px;
+    height: 70vh;
+}
+.libro{
+    display: flex;
+}
+.libro button{
+    margin: 15px;
+    font-size: 15px;
+    box-shadow: 1px 1px;
+}
+.libro p{
+    font-size: 20px;
+}
+.libro button:hover{
+   background-color: #667eea7e;
+   border: 0px;
+}
